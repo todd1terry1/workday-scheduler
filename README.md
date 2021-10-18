@@ -6,11 +6,11 @@ Create a simple calendar application that allows a user to save events for each 
 
 ![Calendar Application](assets/images/work-day-profile.jpg "Calendar Application")
 
-## Deployed Website
-
+Deployed Website:
+https://todd1terry1.github.io/workday-scheduler/
 <
 
-### Built With
+Technologies Used:
 
 * HTML
 * CSS

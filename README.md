@@ -8,7 +8,7 @@ Create a simple calendar application that allows a user to save events for each 
 
 ## Deployed Website
 
-<https://shanebramble.github.io/calendar-application/>
+<
 
 ### Built With
 
@@ -16,8 +16,3 @@ Create a simple calendar application that allows a user to save events for each 
 * CSS
 * JavaScript/JQuery
 
-## Contribution
-
-Made with ❤️ by Shane Bramble-Wade
-
-### ©️2021 Calendar Application, Inc

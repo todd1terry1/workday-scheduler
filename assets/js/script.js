@@ -1,8 +1,4 @@
-// The.ready() method offers a way to run JavaScript code as soon as the page 's 
-// Document Object Model (DOM) becomes safe to manipulate. This will often be a 
-// good time to perform tasks that are needed before the user views or interacts 
-// with the page, for example to add event handlers and initialize plugins. 
-
+ 
 $(document).ready(function () {
     var getCurrentDate = moment().format('dddd, MMMM Do YYYY');
     $("#currentDay").text(getCurrentDate);
